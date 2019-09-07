@@ -1,0 +1,94 @@
+*{
+
+	margin: 0;
+}
+.topo{
+	background-color: #333;
+	height: 60px;
+	width: 100%;
+}
+.topoint{
+	
+	height: 50px;
+	margin: auto;
+	width: 1080px;
+}
+.left{
+	width: 50%;
+	height: 50px;
+	float: left;
+}
+.rigth{
+	float: left;
+	width: 50%;
+	height: 50px;
+}
+.right li{
+	list-style: none;
+	float: left;
+
+}
+.right a{
+	text-decoration: none;
+	float: left;
+	margin: 5px;
+	line-height: 50px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #fff;
+}
+.imagem img {
+margin-bottom:  15px;
+width: 100%;
+height: 600px;
+
+
+}
+p input{
+	text-align: center;
+}
+
+.form-log{
+	margin-top: 200px;
+	text-align: center;
+    background-color: #ccc;
+    height: 350px;
+    width: 400px;
+    margin-left: 450px;
+    
+}
+.form-log form{
+	text-align: center;
+	padding-top:20px;  
+
+}
+.form-log label{
+	font-size: 50px;
+}
+.form-log input{
+	width: 300px;
+	height: 40px;
+	border-radius: 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.cada{
+	background-color: #ddd;
+	width: 400px;
+	height: 400px;
+	padding-top: 30px;
+	margin-left: 400px;
+	padding-left: 75px;
+	margin-top:  60px;
+}
+.cada form{
+	margin-top: 20px;
+}
+.cada input,label{
+	width: 300px;
+	height: 40px;
+	border-radius: 10px;
+	text-transform: uppercase;
+
+
+}
